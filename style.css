@@ -1,0 +1,49 @@
+header h1 {
+    text-align: center;
+    color: #f8f8f8;
+    font-size: 100px;
+    padding-bottom: 1px;
+    margin-bottom: 1px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+header div{
+    text-align: center;
+    color: #f8f8f8;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+header {
+    background-color: #15212b;
+    height: 190px;
+}
+
+.main {
+    background-color: #15212b;
+}
+
+footer ul {
+    padding: 5px;
+    margin: 5px;
+}
+
+footer ul li {
+    float: left;
+    list-style: none;
+    padding-left: 20px;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: #f8f8f8;
+}
+
+footer div{
+    float: right;
+    padding: 5px;
+}
+
+footer {
+    height: 60px;
+    padding: 30px 30px 30px 30px;
+    color: #f8f8f8;
+    background-color: #06121b;
+}
