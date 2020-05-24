@@ -12,11 +12,17 @@ header div{
     font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 header {
+    white-space: nowrap;
     background-color: #15212b;
     height: 190px;
 }
 
-.main {
+main {
+    background-color: #15212b;
+    margin-top: 50px;
+}
+
+body {
     background-color: #15212b;
 }
 
